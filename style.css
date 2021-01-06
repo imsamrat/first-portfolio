@@ -141,3 +141,26 @@ section{
     text-align: center;
 }
 /* Work Section End */
+/* Footer Section Start */
+.footer-section{
+    line-height: 5px;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+}
+footer h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+}
+footer h4{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+    color: gray;
+}
+.footer-logo img{
+    padding: 5px;
+    height: 24px;
+    width: 24px;
+}
+/* Footer Section End */
