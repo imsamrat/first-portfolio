@@ -22,3 +22,43 @@ li a {
     font-size: 16px;
 }
 /* NavBar End */
+/* Top Banner Start */
+h1{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    font-size: 80px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width h1 .name{
+    color: #FF8063;
+
+}
+.half-width a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #FF8063;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+}
+/* Top Banner End */
+
