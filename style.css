@@ -61,4 +61,37 @@ section{
     font-weight: 700;
 }
 /* Top Banner End */
-
+/* Project Section Start */
+.project{
+    background-color: gainsboro;
+    /* box-shadow: 10px 10px 40px gray; */
+    height: 400px;
+    margin-bottom: 50px;
+}
+.project h1{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+}
+.highlight{
+    color: #FF8063;
+}
+.third-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 100%;
+}
+.third-width h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24;
+}
+.third-width img{
+    padding-top: 20px;
+    width: 100%;
+}
+/* Project Section End */
